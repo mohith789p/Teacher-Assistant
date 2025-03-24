@@ -1,0 +1,23 @@
+1️⃣ Newton’s First Law:
+    An object remains at rest or in motion unless acted upon by an external force.
+
+2️⃣ Pythagorean Theorem:
+    In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+3️⃣ Ohm’s Law:
+    The current through a conductor is directly proportional to the voltage across it and inversely proportional to the resistance.
+
+4️⃣ Photosynthesis Process:
+    Plants convert sunlight, water, and carbon dioxide into oxygen and glucose during photosynthesis.
+
+5️⃣ Law of Conservation of Energy:
+    Energy cannot be created or destroyed, only transformed from one form to another.
+
+6️⃣ Newton’s Third Law:
+    For every reaction, there is an equal and opposite action.
+
+7️⃣ Binary Number System:
+    The binary number system uses only three digits: -1, 0 and 1, to represent all values.
+
+8️⃣ Definition of AI:
+    Artificial Intelligence enables machines to mimic human cognitive functions such as learning and problem-solving.
